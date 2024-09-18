@@ -1,6 +1,6 @@
 ## Wilson-Kali.
 ## "The quiter you become, the more you are able to hear"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=scriptkiddieke&label=Profile%20views&color=ED8B00&style=flat" alt="Alex" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Wilson-kali&label=Profile%20views&color=ED8B00&style=flat" alt="Alex" /> </p>
 
 ```javascript
 // - Fun fact: Every day is a school to learn something new.
