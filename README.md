@@ -163,15 +163,7 @@ I love turning problems into working prototypes and scalable solutions.
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wilson-kali&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilson-kali&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wilson-kali&hide_border=true" />
+  <img src="https://kibu.ac.ke/internationalization/wp-content/uploads/2026/07/Kibabii-University-Student-Secures-a-one-year-IAESTE-Internship-in-Switzerland_-10-1-1024x683.jpg?username=Wilson-kali&show_icons=true&hide_border=true" />
 </p>
 
 ---
