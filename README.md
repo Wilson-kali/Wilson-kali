@@ -1,7 +1,3 @@
-Your current README focuses heavily on full-stack development. Based on your updated CV, I’d reposition it around **database/infrastructure, cybersecurity, cloud, software engineering, innovation/hackathons, and your new VR/MR direction**. Your CV supports PostgreSQL, MySQL, SQL Server, Oracle, AWS Redshift, Linux, Docker, AWS, networking, monitoring, automation and security experience.  It also shows multiple first-place innovation/hackathon wins. 
-
-Here’s a cleaner updated README:
-
 <h1 align="center">Hi 👋, I'm Wilson Ndambuki</h1>
 
 <h3 align="center">Computer Scientist • Software Engineer • Cybersecurity & Infrastructure Specialist • Innovation Champion</h3>
