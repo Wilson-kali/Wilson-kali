@@ -1,8 +1,17 @@
-<h1 align="center">Hi there, I'm Wilson </h1>
-<h3 align="center"><em>"The quieter you become, the more you are able to hear."</em></h3>
+Your current README focuses heavily on full-stack development. Based on your updated CV, I’d reposition it around **database/infrastructure, cybersecurity, cloud, software engineering, innovation/hackathons, and your new VR/MR direction**. Your CV supports PostgreSQL, MySQL, SQL Server, Oracle, AWS Redshift, Linux, Docker, AWS, networking, monitoring, automation and security experience.  It also shows multiple first-place innovation/hackathon wins. 
+
+Here’s a cleaner updated README:
+
+<h1 align="center">Hi 👋, I'm Wilson Ndambuki</h1>
+
+<h3 align="center">Computer Scientist • Software Engineer • Cybersecurity & Infrastructure Specialist • Innovation Champion</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Wilson-kali&label=Profile%20views&color=ED8B00&style=flat" alt="Wilson-kali" />
+  <em>"The quieter you become, the more you are able to hear."</em>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Wilson-kali&label=Profile%20Views&color=0e75b6&style=flat" alt="Wilson-kali" />
 </p>
 
 ---
@@ -10,47 +19,187 @@
 ## 🧠 About Me
 
 ```ts
-WilsonKali := SoftwareEngineer{
-  title: "Full Stack Software Engineer",
-  web: {
-    JavaScript: ["React", "Next.js", "Node.js"],
-    Python: ["Django", "Flask"],
-    PHP: ["Laravel"],
-  },
-  mobile: {
-    platforms: ["Android"],
-    tools: ["React Native", "Kotlin"],
-    backend: ["Firebase", "Supabase"],
-    experience: "4 years"
-  },
-  cloud: {
-    provider: "AWS",
-    level: "Cloud Practitioner",
-    experience: "2+ years"
-  }
-}
+const Wilson = {
+  profession: "Computer Scientist & Software Engineer",
+
+  interests: [
+    "Software Engineering",
+    "Database Infrastructure",
+    "Cybersecurity",
+    "Cloud Computing",
+    "Network Engineering",
+    "VR / MR",
+    "Open Source"
+  ],
+
+  databases: [
+    "PostgreSQL",
+    "MySQL",
+    "MariaDB",
+    "SQL Server",
+    "Oracle",
+    "AWS Redshift"
+  ],
+
+  infrastructure: [
+    "Linux",
+    "Docker",
+    "Nginx",
+    "Apache",
+    "VPS",
+    "CI/CD"
+  ],
+
+  cloud: [
+    "AWS EC2",
+    "RDS",
+    "S3",
+    "IAM",
+    "CloudWatch",
+    "Route53",
+    "Cloudflare"
+  ],
+
+  security: [
+    "System Hardening",
+    "IAM",
+    "Network Security",
+    "Log Analysis",
+    "Incident Investigation"
+  ],
+
+  currentlyExploring: [
+    "Virtual Reality",
+    "Mixed Reality",
+    "Unity",
+    "Immersive Medical Simulation"
+  ],
+
+  mindset: "Learn. Build. Secure. Innovate. Contribute."
+};
 ```
 
 ---
 
-## Tech Stack & Tools
+## 🚀 What I Do
 
-Here are the technologies and tools I work with on a daily basis, spanning backend, frontend, mobile, and cloud development. I’m deeply passionate about writing scalable, clean, and efficient code using the right tools for the job.
+I enjoy designing, building, securing, and maintaining technology that solves real-world problems.
+
+My work spans:
+
+* 💻 Software Engineering & Full-Stack Development
+* 🗄️ Database Administration & Infrastructure
+* 🔐 Cybersecurity & System Hardening
+* ☁️ Cloud & Linux Infrastructure
+* 🌐 Networking & Server Administration
+* ⚙️ DevOps, CI/CD & Automation
+* 🥽 VR/MR & Immersive Technology
+* 💡 Innovation & Hackathons
+
+---
+
+## 🏆 Innovation & Hackathons
+
+I love turning problems into working prototypes and scalable solutions.
+
+🥇 **1st Position — HASH APHRC Maternal Sexual & Reproductive Health Innovation Challenge**
+
+🥇 **1st Position — Kibabii University Innovation Week**
+
+🥇 **1st Position — WRRIC Sustainable Urban Mobility Track**
+
+🥇 **1st Position — WRRIC Overnight Blockchain Competition**
+
+🥇 **1st Position — SkillLab Hackathon — ShambaSmart**
+
+🥉 **3rd Position — Venture 4 Change Innovation Competition**
+
+> Build fast. Learn faster. Solve problems that matter.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,php,java,kotlin,html,css" />
+</p>
+
+### Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask,laravel,react,nextjs,nodejs" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+`PostgreSQL` • `MySQL` • `MariaDB` • `SQL Server` • `Oracle` • `AWS Redshift`
+
+### Cloud, DevOps & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,git,github,githubactions,cloudflare" />
+</p>
+
+### Cybersecurity & Networking
+
+`Linux Security` • `IAM` • `System Hardening` • `Network Security` • `Nmap` • `Wireshark` • `Firewalls` • `VPN` • `DNS` • `DHCP`
+
+### Monitoring & Automation
+
+`Grafana` • `Prometheus` • `Bash` • `Python` • `GitHub Actions` • `CI/CD`
+
+### XR — Currently Exploring 🥽
+
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,cs" />
+</p>
+
+`Unity` • `C#` • `VR` • `MR` • `OpenXR` • `XR Interaction Toolkit`
+
+---
+
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wilson-kali&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilson-kali&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wilson-kali&hide_border=true" />
 </p>
 
 ---
 
+## 🤝 Let's Build Together
+
+I'm always interested in collaborating with developers, researchers, innovators, and open-source communities.
+
+If you're working on something interesting in **software engineering, cybersecurity, cloud, databases, AI, VR/MR, or technology for social impact**, let's connect.
+
+⭐ Explore my repositories
+🍴 Fork something interesting
+🛠️ Open a PR
+💡 Share an idea
+🚀 Let's build something impactful together
+
+<p align="center">
+  <a href="https://github.com/Wilson-kali">
+    <img src="https://img.shields.io/badge/GitHub-Wilson--kali-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Learn • Build • Secure • Innovate • Contribute</b>
+</p>
