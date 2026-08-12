@@ -158,16 +158,6 @@ I love turning problems into working prototypes and scalable solutions.
 
 `Unity` • `C#` • `VR` • `MR` • `OpenXR` • `XR Interaction Toolkit`
 
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://kibu.ac.ke/internationalization/wp-content/uploads/2026/07/Kibabii-University-Student-Secures-a-one-year-IAESTE-Internship-in-Switzerland_-10-1-1024x683.jpg?username=Wilson-kali&show_icons=true&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Let's Build Together
 
 I'm always interested in collaborating with developers, researchers, innovators, and open-source communities.
@@ -179,6 +169,7 @@ If you're working on something interesting in **software engineering, cybersecur
 🛠️ Open a PR
 💡 Share an idea
 🚀 Let's build something impactful together
+Or email me: wilsonndambuki47@gmail.com, or WhatsApp. +254794709253
 
 <p align="center">
   <a href="https://github.com/Wilson-kali">
